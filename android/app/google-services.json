@@ -1,43 +1,26 @@
 {
   "project_info": {
-    "project_number": "55291164735",
-    "project_id": "quiz-app-dc1a7",
-    "storage_bucket": "quiz-app-dc1a7.appspot.com"
+    "project_number": "808659349465",
+    "project_id": "quiz-app-5817c",
+    "storage_bucket": "quiz-app-5817c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:55291164735:android:a3acd828e3fee475f2608a",
+        "mobilesdk_app_id": "1:808659349465:android:7df3efb6ca424e781fb3c8",
         "android_client_info": {
           "package_name": "com.example.quiz_app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "55291164735-kreed16h449bsuf5u9s2vqecjvg83vte.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDGyPmGHeOBzYjl-Xkyvl7qWxWDw9p_w-U"
+          "current_key": "AIzaSyDsWfjVvdeI2Bt2EXyNb4f5CJToJlN3RSc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "55291164735-1tc8ulujvng392nqjv1mo69tmhkqkf5s.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "55291164735-d9r9vgibtg5vbjbduipf030r0gat44pk.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.quizApp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
